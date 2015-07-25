@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">XListView</string>
+    <string name="xlistview_header_hint_normal">hint normal</string>
+    <string name="xlistview_header_hint_ready">hint ready</string>
+    <string name="xlistview_header_hint_loading">hint loading</string>
+    <string name="xlistview_header_last_time">last time</string>
+    <string name="xlistview_footer_hint_normal">hint normal</string>
+    <string name="xlistview_footer_hint_ready">hint ready</string>
+    <string name="title_activity_tag_management">TagManagementActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
